@@ -1,7 +1,7 @@
 class Game_map():
 
-    BOARD_WIDTH = 15
-    BOARD_HEIGHT = 15
+    BOARD_WIDTH = 5
+    BOARD_HEIGHT = 5
 
     def __init__(self):
         self.board = []
